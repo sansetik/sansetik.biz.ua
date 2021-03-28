@@ -26,6 +26,7 @@ export default {
   ** Global CSS
   */
   css: [
+    '@/theme/index.css'
   ],
 
   /*
