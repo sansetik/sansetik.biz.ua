@@ -1,12 +1,16 @@
 <template>
   <div class="container">
+    <AppPagesIndexPromo />
     <p>dasdsa</p>
   </div>
 </template>
 
 <script>
+import AppPagesIndexPromo from '@/components/pages/index/AppPagesIndexPromo'
 export default {
-
+  components: {
+    AppPagesIndexPromo
+  }
 }
 </script>
 
