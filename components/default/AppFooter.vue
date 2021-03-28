@@ -1,18 +1,15 @@
 <template>
-  <div class="container">
-    <p>dasdsa</p>
+  <div class="footer">
+    footer
   </div>
 </template>
 
 <script>
 export default {
-
+  name: 'AppFooter'
 }
 </script>
 
 <style scoped>
-.container {
-  margin: 0 auto;
-  width: 1100px;
-}
+
 </style>
