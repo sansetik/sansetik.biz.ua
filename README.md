@@ -1,11 +1,11 @@
 <p align="center"><img width="328px" src="https://nuxtjs.org/logos/nuxt.svg"></p>
 
 
-# Nuxt.js with Express
+# Sansetik saite
 
-> [ExpressJS](http://expressjs.com/) + [Nuxt.js](https://nuxtjs.org) = :zap:
+> Особоистий сайт програміста та простої людини
 
-Live Demo: [https://codesandbox.io/s/github/nuxt-community/express-template](https://codesandbox.io/s/github/nuxt-community/express-template)
+websaite: [https://sansetik.biz.ua)
 
 ## Installation
 
