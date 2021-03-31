@@ -7,8 +7,8 @@
 </template>
 <script>
 
-import AppHeaderMenu from '@/components/default/AppHeaderMenu'
-import AppFooter from '@/components/default/AppFooter'
+import AppHeaderMenu from '@/components/main/default/AppHeaderMenu'
+import AppFooter from '@/components/main/default/AppFooter'
 
 export default {
   components: {

@@ -45,9 +45,18 @@ export default {
   /*
   ** Nuxt.js dev-modules
   */
+  googleFonts: {
+    families: {
+      'Lexend Deca': true,
+      'Noto Sans': true
+    },
+    download: true,
+    stylePath: 'css/fonts.css'
+  },
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
-    '@nuxtjs/eslint-module'
+    '@nuxtjs/eslint-module',
+    '@nuxtjs/google-fonts'
   ],
 
   /*

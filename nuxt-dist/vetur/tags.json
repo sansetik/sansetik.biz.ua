@@ -1,0 +1,11 @@
+{
+  "MainDefaultAppFooter": {
+    "description": "Auto imported from components/main/default/AppFooter.vue"
+  },
+  "MainDefaultAppHeaderMenu": {
+    "description": "Auto imported from components/main/default/AppHeaderMenu.vue"
+  },
+  "MainPagesIndexAppPagesIndexPromo": {
+    "description": "Auto imported from components/main/pages/index/AppPagesIndexPromo.vue"
+  }
+}

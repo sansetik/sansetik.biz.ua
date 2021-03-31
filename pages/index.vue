@@ -1,12 +1,12 @@
 <template>
   <div class="container">
     <AppPagesIndexPromo />
-    <p>dasdsa</p>
+    <p>dads</p>
   </div>
 </template>
 
 <script>
-import AppPagesIndexPromo from '@/components/pages/index/AppPagesIndexPromo'
+import AppPagesIndexPromo from '@/components/main/pages/index/AppPagesIndexPromo'
 export default {
   components: {
     AppPagesIndexPromo
